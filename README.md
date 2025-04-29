@@ -1,2 +1,2 @@
 # beegfs_vagrant
-Beegfs Vagrant setup
+Beegfs Vagrant setup using libvirt provider
